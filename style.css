@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
+.options{
+    margin: 50px;
+}
+.options li{
+    list-style: none;
+    border: 1px solid white;
+    background-color: white;
+    width: 900;
+    margin: 30px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.details{
+    font-weight: bold;
+    margin-left: 120px;
+    color: white;
+    font-family: sans-serif;
+}
+.facebook-btn{
+    margin-left: 100px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: skyblue;
+    width: 150px;
+}
+.facebook-btn p{
+    padding: 5px;
+    font-style:normal;
+    color: white;
+    font-size: 15px;
+}
+.google-btn{
+    margin-left: 70px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: red;
+    width: 150px;
+}
+.google-btn p{
+    padding: 5px;
+    color: white;
+    font-size: 15px;
+}
+.final{
+    margin-top: 20px;
+    width: 80%;
+}
+.extra-details{
+    background: skyblue;
+    color: white;
+    width: 200px;
+    margin: -20px auto 9px;
+}
+form{
+    margin: 40px;
+}
+.info h1{
+    color: white;
+}
+.enter{
+    margin: 5px;
+    width: 200px;
+    background-color; green;
+}
+.enter h1{
+    padding: 1px;
+    color: white;
+}
